@@ -1,8 +1,16 @@
-### Hi there 👋
+## Hello There 👋
+- I am **Raphaël**
+- I am a *computer science student* at **Ecole Nation d'Informatique, Fianarantsoa**
+- I am a *tech lover*, and *open to collaborate on any projects*
+
+## Want to hear a joke😆
+- Just a Joke🙄
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raphael-nk&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 
 <!--
+![Just a Joke🙄](http://mydomain.com/myimage.png)
+
 **raphael-nk/raphael-nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
