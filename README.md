@@ -2,8 +2,9 @@
 - I am **Raphaël**
 - I am a *computer science student* at **Ecole Nation d'Informatique, Fianarantsoa**
 - I am a *tech lover*, and *open to collaborate on any projects*
+- **How to reach me?** send me an email @: raphael.cs.en@gmail.com *or* text me on whatsapp 👉 [+261 34 99 997 98]()
 
-## Want to hear a joke😆
+## Want to hear a joke?😆
 - Just a Joke🙄
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raphael-nk&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
