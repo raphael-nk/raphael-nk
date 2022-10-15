@@ -4,6 +4,10 @@
 - I am a *tech lover*, and *open to collaborate on any projects*
 - **How to reach me?** send me an email @: raphael.cs.en@gmail.com *or* text me on whatsapp 👉 [+261 34 99 997 98]()
 
+## Social Media
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rapha%C3%ABl-marcellin-ranjakasoa-ba4b8022a/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://raphaelnk.hashnode.dev)
+
 ## Want to hear a joke?😆
 - Just a Joke🙄
 
