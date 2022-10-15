@@ -11,6 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rapha%C3%ABl-marcellin-ranjakasoa-ba4b8022a/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://raphaelnk.hashnode.dev)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzsCmQW7YZxuSPREjjZKjZQ)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rapha_el007)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raphael-nk&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 
