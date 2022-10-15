@@ -21,8 +21,10 @@
     <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/Java-FFDD00?style=for-the-badge&logo=java-8&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" /></a>
     <a><img src="https://img.shields.io/badge/C-0175C2?style=for-the-badge&logo=c&logoColor=white" /><a>
+    <a><img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=orange" /><a>
+    <a><img src="https://img.shields.io/badge/CSS-14354C?style=for-the-badge&logo=css3&logoColor=blue" /><a>
 </p>
       
 <!--
