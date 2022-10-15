@@ -4,16 +4,17 @@
 - I am a *tech lover*, and *open to collaborate on any projects*
 - **How to reach me?** send me an email @: raphael.cs.en@gmail.com *or* text me on whatsapp 👉 [+261 34 99 997 98]()
 
-## SOCIAL MEDIA🌍
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rapha%C3%ABl-marcellin-ranjakasoa-ba4b8022a/)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://raphaelnk.hashnode.dev)
-
 ## Want to hear a joke?😆
 - Just a Joke🙄
 
+## SOCIAL MEDIA🌍
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rapha%C3%ABl-marcellin-ranjakasoa-ba4b8022a/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://raphaelnk.hashnode.dev)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzsCmQW7YZxuSPREjjZKjZQ)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=raphael-nk&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 
-## Skills 🎨   
+## SKILLS 🎨   
 ### - Programming Languages 
 
 <p>
@@ -27,7 +28,7 @@
     <a><img src="https://img.shields.io/badge/CSS-14354C?style=for-the-badge&logo=css3&logoColor=blue" /><a>
 </p>
         
-### - Backend frameworks:
+### - Backend frameworks
 
 <p>
     <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
@@ -36,7 +37,7 @@
     <a><img src="https://img.shields.io/badge/Spring Boot-092E20?style=for-the-badge&logo=spring-boot&logoColor=green" /><a>
 </p>
 
-### - Frontend frameworks:
+### - Frontend frameworks
 
 <p>
     <a><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><a>
@@ -44,7 +45,14 @@
     <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><a>
     <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><a>
 </p>
-    
+
+### - Databases
+        
+<p>
+    <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
+    <a><img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=red" /><a>
+    <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><a>
+</p>
       
 <!--
 ![Just a Joke🙄](http://mydomain.com/myimage.png)
