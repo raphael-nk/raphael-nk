@@ -14,7 +14,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=raphael-nk&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 
 ## Skills 🎨   
-### Programming Languages 
+### - Programming Languages 
 
 <p>
     <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
@@ -35,6 +35,16 @@
     <a><img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/Spring Boot-092E20?style=for-the-badge&logo=spring-boot&logoColor=green" /><a>
 </p>
+
+### - Frontend frameworks:
+
+<p>
+    <a><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><a>
+    <a><img src="https://img.shields.io/badge/VueJS-339933?style=for-the-badge&logo=vue.js&logoColor=white" /><a>
+    <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><a>
+    <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><a>
+</p>
+    
       
 <!--
 ![Just a Joke🙄](http://mydomain.com/myimage.png)
