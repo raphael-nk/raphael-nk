@@ -26,6 +26,15 @@
     <a><img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=orange" /><a>
     <a><img src="https://img.shields.io/badge/CSS-14354C?style=for-the-badge&logo=css3&logoColor=blue" /><a>
 </p>
+        
+### - Backend frameworks:
+
+<p>
+    <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+    <a><img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white"/><a>
+    <a><img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" /><a>
+    <a><img src="https://img.shields.io/badge/Spring Boot-092E20?style=for-the-badge&logo=spring-boot&logoColor=green" /><a>
+</p>
       
 <!--
 ![Just a Joke🙄](http://mydomain.com/myimage.png)
