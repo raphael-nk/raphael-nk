@@ -12,6 +12,7 @@
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://raphaelnk.hashnode.dev)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzsCmQW7YZxuSPREjjZKjZQ)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rapha_el007)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-14354C?style=for-the-badge&logo=facebook&logoColor=blue)](https://web.facebook.com/raphael.ranjakasoa/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raphael-nk&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 
