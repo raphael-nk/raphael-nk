@@ -1,5 +1,3 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
 ## HELLO THERE 👋
 - I am **Raphaël**
 - I am a *computer science student* at **Ecole Nation d'Informatique, Fianarantsoa**
@@ -60,6 +58,8 @@
       
 ## MOST USED LANGUAGE 💻🎈  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphael-nk&show_icons=true&locale=en&layout=compact" alt="raphael-nk" /></p>
+
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <!--
 ![Just a Joke🙄](http://mydomain.com/myimage.png)
 
