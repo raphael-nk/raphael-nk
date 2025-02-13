@@ -12,9 +12,8 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-14354C?style=for-the-badge&logo=facebook&logoColor=blue)](https://web.facebook.com/raphael.ranjakasoa/)
 
 ## SKILLS 🎨   
-### - Programming Languages 
-
 <p>
+    <a><img src="https://img.shields.io/badge/SQL-14354C?style=for-the-badge&logo=sql&logoColor=blue" /></a>
     <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
     <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/Java-FFDD00?style=for-the-badge&logo=java-8&logoColor=white" /><a>
@@ -24,30 +23,21 @@
     <a><img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=orange" /><a>
     <a><img src="https://img.shields.io/badge/CSS-14354C?style=for-the-badge&logo=css3&logoColor=blue" /><a>
 </p>
-        
-### - Backend frameworks
-
 <p>
-    <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-    <a><img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white"/><a>
     <a><img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/Spring Boot-092E20?style=for-the-badge&logo=spring-boot&logoColor=green" /><a>
+    <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+    <a><img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white"/><a>
 </p>
-
-### - Frontend frameworks
-
 <p>
-    <a><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><a>
-    <a><img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/VueJS-339933?style=for-the-badge&logo=vue.js&logoColor=white" /><a>
+    <a><img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" /><a>
+    <a><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><a>
 </p>
-
-### - Databases
-        
 <p>
-    <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=red" /><a>
+    <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
     <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><a>
 </p>
       
